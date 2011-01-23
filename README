@@ -1,0 +1,20 @@
+FlickrCMC
+Created by Michael Zick Doherty (http://neufuture.com)
+
+You'll obviously need a Flickr account for this to work.
+
+- In Flickr, create a collection and title it "Work".
+- Inside this collection, create sets for each project.
+- The titles and descriptions of each set are displayed on the site.
+- Put the photos for the project inside each set, making sure that all photos have the same aspect ratio (width divided by height).
+- You can also have collections inside the "Work" collection if you want to divide projects into categories.
+
+- Create a set called "Blog". The title and description of each photo in this set then becomes a blog entry overlayed on the photo.
+- Create a set called "About". The description of this set is seen in the about section of the site.
+
+- Edit the "config.php" file in this directory to have all the correct settings from Flickr
+- Create a "logo.png" that is 500px by 500px and put it in "img" directory (this is optional)
+- Upload all the files into a directory on your web host.
+
+ALL DONE!
+Send questions and comments to michael (at) neufuture (dot) com
